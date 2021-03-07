@@ -1,2 +1,2 @@
 # RuiningGamesWithLua
-Scripts for Roblox games.
+literally ruining roblox games using it's home language against them lolol

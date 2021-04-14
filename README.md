@@ -1,2 +1,3 @@
-# LuaS
-Public scripts created by me for the Roblox Exploiting community.
+# null's lua scripts
+```lua
+```

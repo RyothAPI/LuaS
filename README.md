@@ -1,9 +1,9 @@
 # KAT Adjustable Ammo Capacity
-A [KAT (Knife Ability Test)](https://web.roblox.com/games/refer?IsLargeGameTile=true&PageType=GameSearch&PlaceId=621129760&Position=1&LocalTimestamp=2021-04-19T19:18:18.501Z) script that allows you to change the revolver's ammo capacity (how much bullets and/or ammo it can hold). Obfuscated for reasons. This is the only script I am making for a Roblox game since I don't code in Lua that much anymore. If the developers of KAT patch this script, I will not attempt to fix or make a new version of this script.
+A [KAT (Knife Ability Test)](https://web.roblox.com/games/621129760/KAT) script that allows you to change the revolver's ammo capacity (how much bullets and/or ammo it can hold). Obfuscated for reasons. This is the only script I am making for a Roblox game since I don't code in Lua that much anymore. If the developers of KAT patch this script, I will not attempt to fix or make a new version of this script.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # How to use
-1. Attach your executor (unless it has Auto Attach/Inject) inside [KAT (Knife Ability Test)](https://web.roblox.com/games/refer?IsLargeGameTile=true&PageType=GameSearch&PlaceId=621129760&Position=1&LocalTimestamp=2021-04-19T19:18:18.501Z).
+1. Attach your executor (unless it has Auto Attach/Inject) inside [KAT (Knife Ability Test)](https://web.roblox.com/games/621129760/KAT).
 2. Paste the script into your script executor (works best with [Synapse X](https://x.synapse.to)) 
 3. Make sure you do not have the revolver tool equipped and execute the script, you can change the modified ammo by adjusting the value connected to the `_G.Ammo` variable.
 4. Equip the revolver and reload your gun and the revolver's ammo capacity should be the same value connected to the `_G.Ammo` variable.
